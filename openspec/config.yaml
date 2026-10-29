@@ -1,0 +1,4 @@
+schema: spec-driven
+
+# OpenSpec root lives in the Lab 5 clone; registered store on this machine.
+store: laboratorio-despues

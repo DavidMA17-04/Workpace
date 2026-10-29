@@ -1,0 +1,16 @@
+---
+description: Persistent memory and repo navigation for Lab 6 workspace
+alwaysApply: true
+---
+
+Follow root `AGENTS.md` in every session, especially **Persistent memory** and **OpenSpec**.
+
+At session start:
+
+1. Read `Knowledge/David-Brain/daily-log/status.md` and today's file under `Knowledge/David-Brain/daily-log/` if it exists.
+2. Read `Knowledge/laboratorio-paradigmas.md` when work touches UNA Chat or Lab 5/6.
+3. Read `Repos/AGENTS.md` before editing anything under `Repos/`.
+
+Before finishing: refresh `status.md` and append the diary when meaningful work occurred.
+
+Functional changes in `Repos/Laboratorio_Paradigmas/despues/` use OpenSpec (`/opsx-propose`, `/opsx-apply`). The course harness (lab punto 3) is intentionally omitted.
