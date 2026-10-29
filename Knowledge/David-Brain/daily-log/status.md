@@ -1,20 +1,20 @@
 # Status (rolling)
 
-Last updated: 2026-10-28
+Last updated: 2026-10-29
 
 ## Current focus
 
-- Laboratorio 6 — Auth0 login Google: corregido token con audience + UI logout; reiniciar `npm start` y probar login/logout real.
+- Lab 6 publicado: código en GitHub `Laboratorio_Paradigmas`; workspace en `Workpace`.
 
 ## Completed
 
-- Punto 1: `Repos/`, `.gitignore`, `Repos/AGENTS.md`.
-- Punto 2: clone `Repos/Laboratorio_Paradigmas` (rama `main`).
-- Memoria persistente: `Knowledge/David-Brain/`, notas compartidas, reglas Cursor.
+- Punto 1–2, memoria, Obsidian, OpenSpec `integracion-auth0` (implementado, no archivado).
+- Auth0 + pruebas; E2E 4/4 con puerto 3000 libre.
+- Push `Laboratorio_Paradigmas` `main` (`03ad0af`); push workspace `Workpace` `master` (`d13e5da`).
 
 ## Open / next
 
-- Siguientes instrucciones del profesor (sin harness punto 3).
+- Instrucciones del profesor (sin harness punto 3); opcional archivar OpenSpec más adelante.
 
 ## Waiting on
 
